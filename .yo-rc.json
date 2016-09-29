@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Practical tips for Scalable CSS",
+    "packageVersion": "1.0.0",
+    "useSass": true,
+    "deployToGithubPages": false
+  }
+}
